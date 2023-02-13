@@ -1,1 +1,10 @@
-
+/* .row{
+    background: gray;
+    height: 300px;
+} */
+.row .col div{
+    background: red;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
